@@ -85,7 +85,6 @@ The **CMS** is a Django-based web platform designed to support the full lifecycl
 ## 👥 Contributors (Group B)
 
 - Developers, Scrum Masters, Reviewers, QA – listed in artifacts  
-- Instructor: **[Professor’s Name]**  
 - University of Oklahoma, Spring 2024
 
 ---
