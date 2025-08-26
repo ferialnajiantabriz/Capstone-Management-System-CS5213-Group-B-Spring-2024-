@@ -24,17 +24,17 @@ The **CMS** is a Django-based web platform designed to support the full lifecycl
 
 | Feature                        | Description                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
-| 🧩 Django ORM                 | Models for Users, Projects, Teams, Submissions, Grades, etc.               |
-| 🛠️ CI/CD                      | GitHub Actions automate testing, build, and deployment                     |
-| 🔐 Login with 4x4 Matrix      | Secure login with 2FA-style matrix verification                            |
-| 📅 Calendar Integration       | Canvas API-based event sync & scheduling                                   |
-| 📬 Communication System       | Messaging & forum system via Canvas API                                    |
-| 🧪 Test Environment           | Automated server provision + CI for deployment                             |
-| 📊 Submission & Review       | Document upload, status updates, feedback, and Canvas grade sync           |
+|  Django ORM                 | Models for Users, Projects, Teams, Submissions, Grades, etc.               |
+|  CI/CD                      | GitHub Actions automate testing, build, and deployment                     |
+|  Login with 4x4 Matrix      | Secure login with 2FA-style matrix verification                            |
+| Calendar Integration       | Canvas API-based event sync & scheduling                                   |
+|  Communication System       | Messaging & forum system via Canvas API                                    |
+|  Test Environment           | Automated server provision + CI for deployment                             |
+|  Submission & Review       | Document upload, status updates, feedback, and Canvas grade sync           |
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 - **Frontend:** HTML, CSS (customized Django templates)
 - **Backend:** Django (Python)
@@ -45,7 +45,7 @@ The **CMS** is a Django-based web platform designed to support the full lifecycl
 
 ---
 
-## 🧩 Milestones (M1–M11)
+##  Milestones (M1–M11)
 
 1. Project Setup (Django)
 2. Production Environment Setup (Cloud Hosting)
@@ -61,17 +61,17 @@ The **CMS** is a Django-based web platform designed to support the full lifecycl
 
 ---
 
-## 🧪 Agile Development Flow
+##  Agile Development Flow
 
-- 📅 **Sprints:** 5-day Agile cycles with clear planning and review structure
-- 📆 **Daily Standups** and Thursday **code freeze**
-- 🧾 **Friday demos** to validate progress
-- 🔃 **Gantt Charts** for planning & visual tracking
-- 🧠 **Role-based execution:** Dev, QA, PM, Code Reviewer, Scrum Master
+-  **Sprints:** 5-day Agile cycles with clear planning and review structure
+-  **Daily Standups** and Thursday **code freeze**
+-  **Friday demos** to validate progress
+-  **Gantt Charts** for planning & visual tracking
+-  **Role-based execution:** Dev, QA, PM, Code Reviewer, Scrum Master
 
 ---
 
-## 🧬 Getting Started (Setup)
+##  Getting Started (Setup)
 
 1. Clone the repo:  
    `git clone https://github.com/ou-cs5213-sp24/capstone-management-system.git`
@@ -82,14 +82,10 @@ The **CMS** is a Django-based web platform designed to support the full lifecycl
 
 ---
 
-## 👥 Contributors (Group B)
+##  Contributors (Group B)
 
 - Developers, Scrum Masters, Reviewers, QA – listed in artifacts  
 - University of Oklahoma, Spring 2024
 
----
 
-## 🛡 License
-
-This project is developed for academic purposes only and follows the University of Oklahoma’s academic integrity policies.
 
