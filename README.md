@@ -1,26 +1,26 @@
-# 🎓 Capstone Management System – CS5213 Group B (Spring 2024)
+#  Capstone Management System – CS5213 Group B (Spring 2024)
 
 This repository hosts the design, development, and deployment artifacts of the **Capstone Management System (CMS)**, created by **Group B** for the **CS5213 Software Engineering** course at the University of Oklahoma, Spring 2024.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The **CMS** is a Django-based web platform designed to support the full lifecycle of capstone projects for students, faculty, and administrators. Features include user authentication, team formation, calendar integration, submissions, communication, grading, and CI/CD automation.
 
 ---
 
-## 📁 Documents Included
+##  Documents Included
 
-- 📄 Ticket 7: [Software Design Document (SDD)]  
+-  Ticket 7: [Software Design Document (SDD)]  
   Covers system goals, architecture, UI design, milestones, sprint plans, and detailed module-level descriptions.
 
-- ⚙️ Ticket 8: [Environment Setup Guide]  
+- ⚙ Ticket 8: [Environment Setup Guide]  
   Provides GitHub workflow structure, issue management via milestones, role responsibilities, and collaboration instructions.
 
 ---
 
-## 🚀 Key Features & Technologies
+##  Key Features & Technologies
 
 | Feature                        | Description                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
