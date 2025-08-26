@@ -15,7 +15,7 @@ The **CMS** is a Django-based web platform designed to support the full lifecycl
 -  Ticket 7: [Software Design Document (SDD)]  
   Covers system goals, architecture, UI design, milestones, sprint plans, and detailed module-level descriptions.
 
--  Ticket 8: [Environment Setup Guide]  
+- Ticket 8: [Environment Setup Guide]  
   Provides GitHub workflow structure, issue management via milestones, role responsibilities, and collaboration instructions.
 
 ---
